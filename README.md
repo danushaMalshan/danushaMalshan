@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Danusha Malshan from Sri Lanka. and I develop a mobile app with Flutter.
+Hi, I'm Danusha Malshan from Sri Lanka. and I develop mobile apps with Flutter.
 
 
 
