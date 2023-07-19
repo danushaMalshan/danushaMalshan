@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Danusha Malshan from Sri Lanka. and I develop mobile apps with Flutter.
+Hey There, I am Danusha Malshan. Since beginning my journey as a software developer over 2 years ago, I've done remote work for clients worldwide and helped bring people's ideas to the world. I'm quietly confident, naturally curious, and spend time to exploring and experimenting with new technologies.
 
 
 
